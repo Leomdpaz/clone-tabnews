@@ -1,5 +1,5 @@
 function Home () {
-    return <h1> Bom dia momo, espero que tenha dormido bem. EU TE AMOOOOO </h1>
+    return <h1> Meu primeiro site</h1>
 }
            
 export default Home;
